@@ -1,4 +1,4 @@
-# EmployeeData
+# EmployeesData
 
 This project is a C# application that performs calculations on employee data stored in a CSV file. It calculates the average, highest, and lowest salaries of employees, as well as generates reports based on department-wise statistics. The generated reports are stored in a CSV file.
 
@@ -44,4 +44,3 @@ To run the unit tests, build the solution and run the tests using the test runne
 ## License
 
 This code is for personal practice purposes only. It is not intended for distribution or commercial use.
-
