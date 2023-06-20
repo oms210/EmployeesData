@@ -1,0 +1,3 @@
+Department,EmployeeCount,TotalSalary,AverageSalary,MinSalary,MinSalaryEmployee,MaxSalary,MaxSalaryEmployee
+IT,2,11000,5500,0,,0,
+HR,2,15000,7500,0,,0,

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rF4/2Sm0ehS8vKgEKflc6SEtJxIGeDHoNdsHO+ufA0AnXR/xqWuQN4VKgWQsqyfxMIyU3ZfPGZDvXlkCmOVSdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omarr\\source\\repos\\EmployeesData\\EmployeesData\\EmployeesData.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omarr\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

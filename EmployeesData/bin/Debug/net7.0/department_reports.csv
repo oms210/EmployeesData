@@ -1,0 +1,4 @@
+Department,EmployeeCount,TotalSalary,AverageSalary,MinSalary,MinSalaryEmployee,MaxSalary,MaxSalaryEmployee
+HR,2,125000,62500,60000,Erin,65000,Jack
+IT,4,340000,85000,75000,Bob,95000,Eric
+Sales,3,190000,63333.333333333333333333333333,55000,Eve,75000,Christina
